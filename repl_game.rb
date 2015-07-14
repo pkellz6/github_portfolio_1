@@ -1,3 +1,4 @@
+#cool game 
 # maybe a hangman game?
 # def get_guess
 #   puts <<-END
